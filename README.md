@@ -7,4 +7,5 @@ Am I a PowerShell expert?  No.  However, I know how to use general-purpose LLMs 
 * CSV file with Sample IP addresses
 * Fake SSL Certificate
 * Curl Command (Command used inside of Powershell script)
-* PowerShell Script
+* PowerShell IoT Device Script
+* ChatGPT Prompt
